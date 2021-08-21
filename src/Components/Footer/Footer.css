@@ -1,0 +1,44 @@
+.footer-back {
+    background-color: #222227;
+    min-height: 400px;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 3.5%;
+}
+.unitok{
+    color: white;
+    padding-bottom: 10px;
+}
+.english {
+    background-color: #39393D !important;
+    border-radius: 50px !important;
+    border: none !important;
+    width: 100px !important;
+    margin-top: 5%;
+}
+.ntf-footer{
+    color: white;
+    font-size: 16px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+.explore-footer{
+font-size: 14px;
+}
+.explore-footer1{
+    font-size: 14px;
+    padding-top: 30px;
+    }
+.footer-icon {
+    display: flex;
+    border-top: 1px solid #39393D;
+    justify-content: space-between;
+}
+.margin-footer{
+    margin-bottom: 90px;
+}
+.explore-footer:hover{
+    font-size: 14px;
+    color: whitesmoke !important;
+    cursor: pointer;
+    }

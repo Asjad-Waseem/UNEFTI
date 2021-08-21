@@ -1,0 +1,85 @@
+.card-profile {
+    border:1px solid #1C1C20;
+    border-radius: 15px;
+    padding: 20px;
+    min-height: 400px;
+    margin-top: -35%;
+    border-top: none !important;
+}
+.profile-pic {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 8%;
+}
+.title-profile {
+    color: white;
+    padding-top: 15px;
+    font-size: 19px;
+}
+.title-profile-l1roze {
+    font-size: 17px;
+    color: #5A64FF;
+
+}
+.text-profile {
+    color: #717173;
+    margin-bottom: 20px;
+}
+.margin-icon-profile {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.flex-profile{
+    display: flex;
+    justify-content: space-between;
+}
+.follow-button {
+    width: 110px;
+    height: 40px;
+    border-radius: 10px !important;
+    background-color: #222227 !important;
+    border: none !important;
+}
+.title-profile-nymber{
+    color: white;
+    font-size: 18px;
+}
+.input-profile{
+    background-color: transparent !important;
+    border-radius: 8px !important;
+    height: 30px !important;
+    color: #717173 !important;
+}
+.card-profile-style-padding{
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+    padding: 15px;
+}
+.for-hover:hover{
+    color: whitesmoke !important;
+    cursor: pointer;
+}
+.copied-input{
+display: flex ;
+justify-content: space-between;
+border: 1px solid gray;
+height: 32px;
+border-radius: 10px;
+margin-bottom: 10px;
+padding: 2px;
+}
+.Portfolio-create{
+    height: 40px;
+    margin-bottom: 15px;
+
+}
+@media screen and (max-width: 700px) {
+    .card-profile-style-padding{
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+        padding: 15px;
+    }
+  }

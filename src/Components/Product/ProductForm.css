@@ -1,0 +1,17 @@
+.collectible {
+    color: white;
+    margin-top: 30px;
+    font-size: 29px;
+}
+.card-form {
+    min-height: 500px;
+    border:1px solid #1C1C20;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    margin-top: 50px;
+}
+.Portfolio{
+    height: 40px;
+    margin-top: 25px;
+}

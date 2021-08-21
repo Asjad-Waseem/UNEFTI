@@ -1,0 +1,79 @@
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: white !important;
+    background-color: transparent !important;
+    border-color: none !important;
+    border-bottom: 2px solid #6164FF !important;
+    border :none 
+}
+.nav-link {
+    color: #BDBDBD !important;
+}
+.nav-tabs {
+    /* border-bottom: 1px solid #dee2e6; */
+    border: 1px solid #1C1C20 !important;
+    height: 55px !important;
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 20px !important;
+    padding-right: 40px !important;
+}
+
+.clear-all{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.clearr {
+    color: blue;
+    font-size: 11px;
+    
+}
+.color-checkbox {
+    color: white;
+    margin-left: 5px;
+    margin-top: 20px;
+    background-color: transparent !important;
+}
+.card-personal{
+    border: 1px solid #1C1C20 !important;
+    min-height: 300px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+.label-color {
+    color: white;
+   
+}
+.input-back {
+    background-color: #222227 !important;
+    border-radius: 15px !important;
+    border: none !important;
+    height: 45px !important;
+    color: #5B616C !important;
+}
+.save-personal {
+    height: 50px !important;
+    width: 150px;
+    margin-top: 20px;
+    border-radius: 10px !important;
+    background-color: #6164FF !important;
+}
+.Profile-Detail {
+    color: white !important;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+@media screen and (max-width: 700px) {
+    .nav-tabs {
+        /* border-bottom: 1px solid #dee2e6; */
+        border: 1px solid #1C1C20 !important;
+        height: auto !important;
+        border-radius: 20px;
+        padding: 5px;
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+    
+  }

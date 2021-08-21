@@ -1,0 +1,20 @@
+.live-auction{
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-top: 5%;
+
+}
+.live-auction-arrow{
+    display: flex;
+    justify-content: space-between;
+}
+.live{
+    color: white;
+    font-size: 30px;
+    font-family: 'italic';
+    margin-bottom: 20px;
+}
+.col-md-3 {
+
+    padding: 10px !important;
+}

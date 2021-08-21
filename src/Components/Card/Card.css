@@ -1,0 +1,151 @@
+.card-auction{
+min-height: 500px;
+border:1px solid #1C1C20;
+border-radius: 20px;
+margin-bottom: 20px;
+padding: 20px;
+}
+.card-collection{
+border:1px solid #1C1C20;
+min-height: 200px;
+border-radius: 20px;
+justify-content: center;
+
+}
+.hasmask{
+    text-align: center;
+    font-size: large;
+    padding-top: 10px;
+}
+.red{
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #21213C;
+    margin-right: 20px;
+    /* margin-top: 5%; */
+}
+.detail-selling {
+    padding-top: 20px;
+    font-size: 14px;
+}
+.wallet {
+    padding-top: 10px;
+}
+.flex-selling{
+    display: flex;
+}
+.erx {
+    text-align: center;
+    font-size: 15px;
+    margin-top: -5px;
+}
+.image-radius-coll{
+    width: 100% ;
+    border-start-start-radius: 10px;
+    border-start-end-radius: 10px;
+}
+.avatar-image-col {
+    border-radius: 20px;
+    margin-left: 40%;
+    margin-top: -30px;
+}
+.image-radius{
+    border-radius: 10px;
+    /* width: 260px; */
+    width: 100%;
+    height: 300px;
+}
+.image-radius1 {
+    border-radius: 10px;
+    width: 40px;
+    height: 40px;
+}
+.button-absolute{
+    height: 29px;
+    margin-top: -59px;
+    border-radius: 68px !important;
+    padding: 0px !important;
+    width: 99px;
+    background-color: transparent !important;
+    font-size: 13px !important;
+}
+.button-absolute:hover{
+
+    background-color: transparent;
+
+}
+.title{
+   margin-top: 10px;
+   font-size: 22px;
+}
+.title-blog{
+   font-size: 22px;
+   margin-top: 20px;
+   padding: 10px;
+
+}
+.image-flex{
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: -15px;
+}
+.name{
+    padding: 8px;
+}
+.ETH-flex{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -10px;
+}
+.title-ETH{
+    margin-top: -10px;
+    font-size: 22px;
+}
+.number {
+    margin-top: -10px;
+
+}
+.card-activity{
+    min-height: 200px;
+    border:1px solid #1C1C20 !important;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 20px; 
+    margin-top: 50px;
+    display: flex;
+}
+.small-image-activity {
+    width: 150px;
+    height: 170px;
+    border-radius: 20px;
+    margin-right: 40px;
+}
+.walking-on-air {
+    color: white;
+    padding-top: 10px;
+}
+.walking-on-list {
+    color: white;
+    margin-top: 30px;
+}
+.image-blog{
+    width: 100%;
+    border-start-start-radius: 10px;
+    border-start-end-radius: 10px;
+    height: 350px;
+
+}
+.blog-flex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 10px;
+}
+.card-blog{
+    min-height: 500px;
+    border:1px solid #1C1C20;
+    border-radius: 20px;
+    margin-bottom: 20px;
+  
+    }
